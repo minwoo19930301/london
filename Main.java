@@ -12,6 +12,7 @@ public class Main {
         asdfasdf.enemy = doggy2;
         asdfasdf.hit(3);
         System.out.println(asdfasdf.enemy.hp);
+        Cat cat = new Cat();
 
 
 
