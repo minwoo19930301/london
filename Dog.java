@@ -27,4 +27,10 @@ public class Dog {
         return this.age + age;
     }
 
+    void hit(int qwe) {
+        for (int i = 0; i < qwe; i++) {
+            this.enemy.hp = this.enemy.hp - this.strength;
+        }
+    }
+
 }
