@@ -13,7 +13,7 @@ public class Main {
         asdfasdf.hit(3);
         System.out.println(asdfasdf.enemy.hp);
 
-
+        Person person = new Person();
 
 
     }
