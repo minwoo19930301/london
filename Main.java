@@ -12,7 +12,6 @@ public class Main {
         asdfasdf.enemy = doggy2;
         asdfasdf.hit(3);
         System.out.println(asdfasdf.enemy.hp);
-        Bird bird = new Bird();
 
 
 
