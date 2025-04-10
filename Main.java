@@ -10,7 +10,11 @@ public class Main {
         asdfasdf.bark();
         System.out.println(asdfasdf.getAge(3));
         asdfasdf.enemy = doggy2;
+        asdfasdf.hit(3);
         System.out.println(asdfasdf.enemy.hp);
+
+
+
 
     }
 }
